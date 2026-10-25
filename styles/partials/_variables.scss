@@ -1,0 +1,29 @@
+// ── Breakpoints ───────────────────────────────────────────────────────────────
+$breakpoint-tablet: 768px;
+
+// ── Shared Variables ──────────────────────────────────────────────────────────
+$c_white: #f7f7f7;
+$c_black: #181818;
+$background: $c_black;
+$button--text: $c_black;
+$c_ghost_text: $c_white;
+$c_ghost: $background;
+$c_orange: #ffa500;
+$c_blue: #8899ff;
+$c_blueperiwinkle: #9898fc;
+$c_peach: #ff9966;
+$c_violet: #bf80ff;
+$c_violetpastel: #be98c9;
+$c_violetturkish: #b56696;
+$c_red: #cc4444;
+$buttongap: 0.5rem;
+
+// ── Content Box Sizing ────────────────────────────────────────────────────────
+$content_box-headline-radius: 1.25rem;
+$content_box-headline-height: 2.5rem;
+$content_box-underline-height: 1.25rem;
+$content_box-underline-height-plus: 1.3125rem;
+$content_box-sidebar-item-height: 2.5rem;
+$content_box-gap: 0.625rem;
+$content_box-large-end-width: 12.5rem;
+$content_box-small-end-width: 2.5rem;
